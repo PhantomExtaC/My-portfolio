@@ -1,0 +1,21 @@
+* {
+  color:black
+}
+
+
+div{
+  width:45%;
+  display:inline-block;
+}
+
+
+#mainhead{
+  font-size: 100px;
+}
+ 
+
+
+#indexele{
+  float: right;
+}
+
